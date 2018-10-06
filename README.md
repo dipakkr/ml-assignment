@@ -4,14 +4,14 @@
 
 ## Plots 
 
-#### 1. Variance Plot
+### 1. Variance Plot
 
 ![Image](plots/variance.png)
 
-#### 2. PCA Plot
+### 2. PCA Plot
 
 ![Image](plots/pca_plot.png)
 
-#### 3. Meta Data Plot ( Time Vs Sample)
+### 3. Meta Data Plot ( Time Vs Sample)
 
 ![Image](plots/meta.png)
